@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>TextMate2 (XYZ)</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeIconFile</key>
+			<string>XXX</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>xxx</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleTypeName</key>
+			<string>Description text for XXX file type</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeIconFile</key>
+			<string>YYY</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>yyy</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleTypeName</key>
+			<string>Description text for YYY file type</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeIconFile</key>
+			<string>ZZZ</string>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>zzz</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleTypeName</key>
+			<string>Description text for ZZZ file type</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>TextMate Proxy</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.example.XYZRunner</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>TextMate2 (XYZ)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.5.0</string>
+	<key>LSUIElement</key>
+	<false/>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2013 John Doe</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>CFBundleIconFile</key>
+	<string>Application</string>
+</dict>
+</plist>
